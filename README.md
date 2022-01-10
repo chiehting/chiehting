@@ -4,6 +4,8 @@
 [![GitHub license](https://img.shields.io/github/license/chiehting/chiehting.svg)](https://github.com/chiehting/chiehting/blob/main/LICENSE)
 ![Hello visitors](https://visitor-badge.glitch.me/badge?page_id=chiehting.chiehting)
 
+[![Sine gif](https://storage.googleapis.com/chiehting.com/github/sine.gif)](https://github.com/chiehting/sine-gif)
+
 I'm Chiehting Lee.
 
 ## GitHub Stats
