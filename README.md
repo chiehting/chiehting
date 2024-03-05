@@ -2,7 +2,6 @@
 
 [![Website shields.io](https://img.shields.io/website?down_color=red&down_message=offline&up_color=grean&up_message=online&url=https%3A%2F%2Fchiehting.com%2Fabout)](https://chiehting.com/about)
 [![GitHub license](https://img.shields.io/github/license/chiehting/chiehting.svg)](https://github.com/chiehting/chiehting/blob/main/LICENSE)
-![Hello visitors](https://visitor-badge.glitch.me/badge?page_id=chiehting.chiehting)
 
 [![Sine gif](https://storage.googleapis.com/chiehting.com/github/sine.gif)](https://chiehting.com/about)
 
