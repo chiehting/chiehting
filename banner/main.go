@@ -77,9 +77,6 @@ func main() {
 				if r > 0 || g > 0 || b > 0 {
 					outR, outG, outB := r, g, b
 					rgbaImg.Set(x, y, color.RGBA{outR, outG, outB, 255})
-
-				} else if y == h/2 {
-					rgbaImg.Set(x, y, color.RGBA{255, 255, 255, 255})
 				} else {
 					rgbaImg.Set(x, y, color.RGBA{0, 0, 0, 255})
 				}
@@ -104,8 +101,8 @@ func main() {
 		c.SetDst(rgbaImg)
 		c.SetSrc(image.NewUniform(color.RGBA{255, 255, 255, 255}))
 
-		_, _ = c.DrawString("H e l l o", freetype.Pt(50, 65))
-		_, _ = c.DrawString("W o r l d", freetype.Pt(460, 65))
+		_, _ = c.DrawString("H e l l o", freetype.Pt(50, 75))
+		_, _ = c.DrawString("W o r l d", freetype.Pt(460, 75))
 
 		palettedImg := image.NewPaletted(image.Rect(0, 0, w, h), palette)
 		for x := 0; x < w; x++ {
